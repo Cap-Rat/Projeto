@@ -1,0 +1,12 @@
+
+abr 11, 2021 20:54:23.01 NEW SESSION
+abr 11, 2021 20:54:23.01 [9740:3248:0411/205423.009:ERROR:device_event_log_impl.cc(214)] [20:54:23.008] Bluetooth: bluetooth_adapter_winrt.cc:1072 Getting Default Adapter failed.
+abr 11, 2021 21:01:20.28 [13056:13148:0411/210120.286:ERROR:device_event_log_impl.cc(214)] [21:01:20.286] Bluetooth: bluetooth_adapter_winrt.cc:1072 Getting Default Adapter failed.
+abr 11, 2021 21:02:13.76 [6396:12660:0411/210213.768:ERROR:device_event_log_impl.cc(214)] [21:02:13.768] Bluetooth: bluetooth_adapter_winrt.cc:1072 Getting Default Adapter failed.
+
+abr 11, 2021 21:06:42.26 NEW SESSION
+abr 11, 2021 21:06:42.26 [1112:17952:0411/210642.258:ERROR:device_event_log_impl.cc(214)] [21:06:42.258] Bluetooth: bluetooth_adapter_winrt.cc:1072 Getting Default Adapter failed.
+abr 11, 2021 21:09:32.14 [14076:8836:0411/210932.145:ERROR:device_event_log_impl.cc(214)] [21:09:32.145] Bluetooth: bluetooth_adapter_winrt.cc:1072 Getting Default Adapter failed.
+abr 11, 2021 21:10:28.99 [11508:4232:0411/211028.996:ERROR:device_event_log_impl.cc(214)] [21:10:28.996] Bluetooth: bluetooth_adapter_winrt.cc:1072 Getting Default Adapter failed.
+abr 11, 2021 21:14:31.02 [7456:10864:0411/211431.025:ERROR:device_event_log_impl.cc(214)] [21:14:31.025] Bluetooth: bluetooth_adapter_winrt.cc:1072 Getting Default Adapter failed.
+abr 11, 2021 21:15:26.62 [10828:8916:0411/211526.620:ERROR:device_event_log_impl.cc(214)] [21:15:26.621] Bluetooth: bluetooth_adapter_winrt.cc:1072 Getting Default Adapter failed.

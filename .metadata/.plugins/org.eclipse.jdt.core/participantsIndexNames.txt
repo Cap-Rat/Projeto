@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+C:\Users\ukzge\Desktop\LDS\tristeza\Projeto\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1233967529.index
+\CapRat\src
