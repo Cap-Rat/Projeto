@@ -1,0 +1,8 @@
+127.0.0.1 - - [12/Apr/2021:09:50:38 -0300] "GET / HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [12/Apr/2021:09:50:39 -0300] "GET /CapRat/www/common/cadastro-curriculo/cadastro-curriculo.jsp HTTP/1.1" 200 4692
+0:0:0:0:0:0:0:1 - - [12/Apr/2021:09:50:39 -0300] "GET /CapRat/www/footer/css/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [12/Apr/2021:09:50:39 -0300] "GET /CapRat/www/header/v1/css/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [12/Apr/2021:09:50:39 -0300] "GET /favicon.ico HTTP/1.1" 404 774
+0:0:0:0:0:0:0:1 - - [12/Apr/2021:12:03:25 -0300] "GET /CapRat/www/common/cadastro-curriculo/cadastro-curriculo.jsp HTTP/1.1" 200 4692
+0:0:0:0:0:0:0:1 - - [12/Apr/2021:12:03:25 -0300] "GET /CapRat/www/header/v1/css/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [12/Apr/2021:12:03:25 -0300] "GET /CapRat/www/footer/css/style.css HTTP/1.1" 304 -

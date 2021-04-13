@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Montserrat';
+}
+.body-footer{
+    display: flex;
+    justify-content: flex-end;
+    min-height: 100vh;
+    flex-direction: column;
+    background-color: #FEFFF7;
+}
+
+footer{
+    position: relative;
+    width: 100%;
+    height: auto;
+    padding: 50px 100px;
+    background-color: #363636;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+footer .container{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-left: 85px;
+}
+
+footer .container .sec{
+    margin-right: 30px;
+}
+
+footer .container .sec.about-us{
+    width: 33%;
+}
+
+footer .container h2{
+    position: relative;
+    text-transform: uppercase;
+    color: #FEFFF7;
+    font-weight: 400;
+    margin-bottom: 15px;
+}
+
+footer .container #bolder{
+    font-weight: 800;
+}
+
+footer .container h2:before{
+    content: '';
+    position: absolute;
+    bottom: -5px;
+    left: 0;
+    width: 50px;
+    height: 2px;
+    background: #BAD1CE;
+}
+
+footer p{
+    color:#a3a39f;
+}
+
+.sci{
+    margin-top: 20px;
+    display: flex;
+}
+
+.sci li{
+    list-style: none;
+}
+
+.sci li a{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    background: #4F4F4F;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+    text-decoration: none;
+    border-radius: 4px;
+    color:#FEFFF7;
+}
+
+.sci li a:hover{
+    background-color: #FEFFF7;
+    color: #363636;
+    transition: 1s;
+}
+
+.sci li a .fa{
+    font-size: 20px;
+}
+.know-more{
+  position: relative;
+  width: 25%;
+}
+
+.know-more ul li{
+    list-style: none;
+}
+
+.know-more ul li a{
+   color:#a3a39f;
+   text-decoration: none;
+   margin-bottom: 10px;
+   display: inline-block;
+}
+
+.know-more ul li a:hover{
+    color:#FEFFF7;
+
+}
+
+.talk-to-us{
+    width: calc(35% - 60px);
+    margin-right: 0 !important;
+}
+
+.talk-to-us .info{
+    position: relative;
+}
+
+.talk-to-us .info li{
+    display: flex;
+    margin-bottom: 16px;
+}
+
+.talk-to-us .info li span:nth-child(1){
+    color: #FEFFF7;
+    font-size: 20px;
+    margin-right: 10px;
+}
+
+.talk-to-us .info li span{
+    color: #a3a39f;
+}
+
+.talk-to-us .info li a{
+    color: #a3a39f;
+    text-decoration: none;
+}
+
+.talk-to-us .info li a:hover{
+    color:#FEFFF7;
+}
+
+.copyright{
+    width: 100%;
+    background-color: #242424;
+    padding: 8px 100px;
+    text-align: center;
+    color: #FEFFF7;
+}

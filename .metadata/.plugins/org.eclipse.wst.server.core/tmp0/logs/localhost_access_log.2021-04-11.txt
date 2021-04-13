@@ -84,3 +84,10 @@
 0:0:0:0:0:0:0:1 - - [11/Apr/2021:21:14:27 -0300] "GET /favicon.ico HTTP/1.1" 404 774
 0:0:0:0:0:0:0:1 - - [11/Apr/2021:21:15:19 -0300] "GET /CapRat/www/common/cadastro-curriculo/cadastro-curriculo.jsp HTTP/1.1" 200 4613
 0:0:0:0:0:0:0:1 - - [11/Apr/2021:21:15:20 -0300] "GET /favicon.ico HTTP/1.1" 404 774
+0:0:0:0:0:0:0:1 - - [11/Apr/2021:21:56:17 -0300] "GET /CapRat/www/header/v1/header.html HTTP/1.1" 200 1699
+0:0:0:0:0:0:0:1 - - [11/Apr/2021:21:56:17 -0300] "GET /CapRat/www/footer/css/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [11/Apr/2021:21:56:17 -0300] "GET /CapRat/www/header/v1/css/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [11/Apr/2021:21:56:22 -0300] "GET /CapRat/www/common/cadastro-curriculo/cadastro-curriculo.jsp HTTP/1.1" 200 4613
+0:0:0:0:0:0:0:1 - - [11/Apr/2021:22:11:20 -0300] "GET /CapRat/www/common/cadastro-curriculo/cadastro-curriculo.jsp HTTP/1.1" 200 4692
+0:0:0:0:0:0:0:1 - - [11/Apr/2021:22:11:20 -0300] "GET /CapRat/www/header/v1/css/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [11/Apr/2021:22:11:20 -0300] "GET /CapRat/www/footer/css/style.css HTTP/1.1" 304 -
