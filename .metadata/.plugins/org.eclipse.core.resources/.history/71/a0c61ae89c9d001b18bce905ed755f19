@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Montserrat';
+    background-color: #FEFFF7;
+}
+
+div.container{
+	position:relative;
+	background-color: red;
+}
+
+.custom-shape-divider-top-1618457940 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-top-1618457940 svg {
+    position: relative;
+    display: block;
+    width: calc(127% + 1.3px);
+    height: 101px;
+}
+
+.custom-shape-divider-top-1618457940 .shape-fill {
+    fill: #363636;
+}
