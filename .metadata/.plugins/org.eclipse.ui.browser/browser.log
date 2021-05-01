@@ -17,3 +17,15 @@ abr 15, 2021 12:31:33.65 [5320:11652:0415/123133.659:ERROR:CONSOLE(1)] "No docum
 abr 15, 2021 12:32:03.71 [5320:11652:0415/123203.711:ERROR:CONSOLE(1)] "No document", source: devtools://devtools/bundled/sdk/sdk.js (1)
 abr 15, 2021 12:32:04.25 [5320:11652:0415/123204.258:ERROR:CONSOLE(1)] "No document", source: devtools://devtools/bundled/sdk/sdk.js (1)
 abr 15, 2021 12:32:05.15 [5320:11652:0415/123205.156:ERROR:CONSOLE(1)] "No document", source: devtools://devtools/bundled/sdk/sdk.js (1)
+
+abr 16, 2021 09:47:53.19 NEW SESSION
+abr 16, 2021 09:47:53.19 [7776:8924:0416/094753.191:ERROR:device_event_log_impl.cc(214)] [09:47:53.191] Bluetooth: bluetooth_adapter_winrt.cc:1072 Getting Default Adapter failed.
+
+abr 17, 2021 11:43:31.20 NEW SESSION
+abr 17, 2021 11:43:31.21 [19148:15448:0417/114331.208:ERROR:device_event_log_impl.cc(214)] [11:43:31.208] Bluetooth: bluetooth_adapter_winrt.cc:1072 Getting Default Adapter failed.
+
+abr 18, 2021 20:11:41.90 NEW SESSION
+abr 18, 2021 20:11:41.90 [7216:5768:0418/201141.906:ERROR:device_event_log_impl.cc(214)] [20:11:41.906] Bluetooth: bluetooth_adapter_winrt.cc:1072 Getting Default Adapter failed.
+
+abr 18, 2021 21:11:57.56 NEW SESSION
+abr 18, 2021 21:11:57.56 [9936:13776:0418/211157.563:ERROR:device_event_log_impl.cc(214)] [21:11:57.563] Bluetooth: bluetooth_adapter_winrt.cc:1072 Getting Default Adapter failed.
