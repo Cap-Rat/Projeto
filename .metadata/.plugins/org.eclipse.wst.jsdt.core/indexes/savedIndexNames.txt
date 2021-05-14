@@ -1,11 +1,8 @@
 INDEX VERSION 1.4+C:\Users\ukzge\Desktop\LDS\tristeza\Projeto\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-2475685789.index
-2064568067.index
-959110882.index
-2845827887.index
-1545784864.index
-2132050972.index
 2962056071.index
 3269874432.index
-1233967529.index
+2064568067.index
+959110882.index
 3387078716.index
+2845827887.index
+1545784864.index
