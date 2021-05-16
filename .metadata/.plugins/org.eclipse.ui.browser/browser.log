@@ -29,3 +29,7 @@ abr 18, 2021 20:11:41.90 [7216:5768:0418/201141.906:ERROR:device_event_log_impl.
 
 abr 18, 2021 21:11:57.56 NEW SESSION
 abr 18, 2021 21:11:57.56 [9936:13776:0418/211157.563:ERROR:device_event_log_impl.cc(214)] [21:11:57.563] Bluetooth: bluetooth_adapter_winrt.cc:1072 Getting Default Adapter failed.
+
+mai 16, 2021 13:09:28.71 NEW SESSION
+mai 16, 2021 13:09:28.71 [15124:15128:0516/130928.713:ERROR:device_event_log_impl.cc(214)] [13:09:28.713] Bluetooth: bluetooth_adapter_winrt.cc:1072 Getting Default Adapter failed.
+mai 16, 2021 13:54:58.71 [15124:15128:0516/135458.712:ERROR:device_event_log_impl.cc(214)] [13:54:58.528] USB: usb_service_win.cc:258 Failed to get device driver name: Elemento não encontrado. (0x490)

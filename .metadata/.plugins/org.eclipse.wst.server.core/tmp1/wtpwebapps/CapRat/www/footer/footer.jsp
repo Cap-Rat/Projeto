@@ -1,15 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" ?>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
-	<div class="body-footer">
+<div class="body-footer">
 	            <footer>
 	                <div class="container">
-	                    <div class="sec about-us">
+	                    <div class="sec about-us" align="center">
 	                        <h2>Sobre <span id="bolder">Nós</span></h2>
 	                        <p>
 	                            Somos uma comunidade que tem o propósito de contribuir para um mundo em que empresas escolhem melhor as pessoas e pessoas escolhem melhor as empresas. 
 	                        </p>
-	                        <ul class="sci">
+	                        <ul class="sci" align="center">
 	                            <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
 	                            <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
 	                            <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
@@ -17,7 +16,7 @@
 	                            <li><a href="#"><i class="fa fa-github" aria-hidden="true"></i></a></li>
 	                        </ul>
 	                    </div>
-	                    <div class="sec know-more">
+	                    <div class="sec know-more" align="center">
 	                        <h2>Saiba <span id="bolder">Mais</span></h2>
 	                        <ul>
 	                            <li><a href="#">FAQ</a></li>
@@ -27,7 +26,7 @@
 	                            <li><a href="#">Contato</a></li>
 	                        </ul>
 	                    </div>
-	                    <div class="sec talk-to-us">
+	                    <div class="sec talk-to-us" align="center">
 	                        <h2>Fale <span id="bolder">Conosco</span></h2>
 	                        <ul class="info">
 	                            <li>
