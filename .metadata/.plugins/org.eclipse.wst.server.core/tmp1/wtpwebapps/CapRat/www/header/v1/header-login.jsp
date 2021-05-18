@@ -18,8 +18,8 @@
             <header>
                 <a href="#" class="logo">CAP<span>RAT</span></a>
                 <ul class="navigation">
-                    <li><a href="#">Login</a></li>
-                    <li><a href="#">Cadastro</a></li>
+                    <li><a href="../../both/login/login.jsp">Login</a></li>
+                    <li><a href="../../both/cadastro/cadastro.jsp">Cadastro</a></li>
                 </ul>
             </header>
         </div>
